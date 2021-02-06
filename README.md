@@ -8,7 +8,7 @@
 
 
 ## Demo
-<p align= "center"><img src ="demo/contacts_app.gif"/> </p>
+<p align= "center"><img src ="demo/contacts_app.gif"  width="200" height="400" /> </p>
 
 ## Dependencies
 
