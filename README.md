@@ -9,7 +9,7 @@
 
 
 ## Demo
-<p align= "center"><img src ="demo/contacts_app.gif"  width="320" height="569" /> <img src="https://gfycat.com/richcreamyblobfish" width="320" height="569" /> </p>
+<p align= "center"><img src ="demo/contacts_app.gif"  width="320" height="569" /> <img src="demo/search.gif" width="320" height="569" /> </p>
 
 ## Dependencies
 
