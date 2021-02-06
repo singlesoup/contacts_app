@@ -2,13 +2,13 @@
 <h3 align = "center"> <b>Implementation of Seach from hive with provider</b> </h3>
 
 <p align="center">
-		<img src="demo/Implementing Search.png"/>
+		<img src="demo/Implementing Search.png"  width="1200" height="600/>
 </p>
 <p align="center" > <b>This is an example app for a medium article, which shows the implementation of Search, fetching from Hive database for flutter.</b></p>
 
 
 ## Demo
-<p align= "center"><img src ="demo/contacts_app.gif"  width="200" height="400" /> </p>
+<p align= "center"><img src ="demo/contacts_app.gif"  width="320" height="569" /> </p>
 
 ## Dependencies
 
