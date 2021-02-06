@@ -3,6 +3,7 @@
 
 <p align="center">
 		<img src="demo/Implementing Search.png"  width="970" height="560/>
+									      <br>
 </p>
 <p align="center" > <b> This is an example app for a medium article, which shows the implementation of Search, fetching from Hive database for flutter.</b></p>
 
