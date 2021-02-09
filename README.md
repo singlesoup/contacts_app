@@ -2,7 +2,7 @@
 <h3 align = "center"> <b>Implementation of Seach from hive with provider</b> </h3>
 
 <p align="center">
-		<img src="demo/Implementing Search.png"  width="970" height="560/>
+		<img src="demo/Implementing Search.png"/>
 									      <br>
 </p>
 <p align="center" > <b> <br> This is an example app for a medium article, which shows the implementation of Search, fetching from Hive database for flutter.</b></p>
